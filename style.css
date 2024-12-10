@@ -1,0 +1,48 @@
+.custom-plugin-list {
+  list-style-type: none;
+  padding: 0;
+}
+.custom-plugin-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+.custom-plugin-list li img {
+  margin-left: 10px;
+  max-width: 50px;
+  border-radius: 5px;
+}
+.custom-plugin-list li .item-details {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.custom-plugin-list li .item-details span {
+  margin-bottom: 0;
+}
+.custom-plugin-list li .item-actions {
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
+}
+.custom-plugin-list li .item-actions form,
+.custom-plugin-list li .item-actions button {
+  margin-left: 0;
+}
+.my-custom-plugin__shortcode {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background-color: red;
+}
+#my_custom_plugin_photo {
+  border: #ccc 1px solid;
+  padding: 0px 10px;
+}
+#my_custom_plugin_photo input {
+  background-color: blue;
+}
