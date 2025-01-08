@@ -1,11 +1,10 @@
 <?php
 /*
-Plugin Name: My Custom Plugin
-Plugin URI: http://example.com
-Description: A custom plugin for WordPress.
+Plugin Name: Team grid plugin
+Plugin URI: http://luckadomena.pl
+Description: A custom plugin for WordPress to create a stylish and performant team view.
 Version: 1.0
-Author: Your Name
-Author URI: http://example.com
+Author: Luceq
 License: GPL2
 */
 
